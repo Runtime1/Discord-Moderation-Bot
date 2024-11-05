@@ -1,0 +1,15 @@
+{
+    "prefix": ".",
+    "modLogChannelId": "",
+    "moderatorRoleId": "",
+    "warningLimit": 3,
+    "blacklist": [],
+    "inappropriateWords": ["cheato", "hack", "spoofer", "nigga", "niga", "nigger"],
+    "spamThreshold": 5,
+    "spamTimeFrame": 5000,
+    "raidThreshold": 10,
+    "raidTimeFrame": 60000,
+    "spamTimeout": 60000,
+    "commandCooldown": 5000
+  }
+  
